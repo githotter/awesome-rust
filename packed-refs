@@ -1,0 +1,3 @@
+# pack-refs with: peeled fully-peeled sorted 
+ba13c0770b5d1404cc211462e65664bc0d7e40a4 refs/remotes/origin/main
+70602fd7d8c9c06cd85c0697389dcee90732097d refs/remotes/origin/raftario-patch-1
